@@ -1,0 +1,6 @@
+inputfile#1 - shows if no vip trucks vip cargos will still be delivered
+inputfile#2 - shows maxw working
+inputfile#3 - Shows that even if there are remaining cargos and events finished they will leave (maxw again ++ vip example)
+inputfile#4 - Shows autopromote working
+inputfile#5 - big general events - 86 events
+inputfile#6 -  even bigger general events - 201 events
